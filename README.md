@@ -1,8 +1,8 @@
-### Hi There 👋
+### Hi there 👋
 
-## My Name Is James Anthony Phoenix
+## My Name Is James Phoenix
 
-## I'm A Data Engineer & Love Data 
+## I'm A Data Engineer That Loves Data!
 
 - 🔭 I’m currently working on [Sempioneer](https://sempioneer.com/).
 - 🌱 I’m currently learning Flask & JavaScript.
