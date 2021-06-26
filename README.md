@@ -8,6 +8,7 @@
 ## I'm A Full-Stack Data Engineer, Developer & Growth Marketer
 
 - 🌱  I’m currently learning [ReactJS](https://reactjs.org/), Data Engineering, JavaScript and Python.
+- - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/jamesaphoenix)!
 - 🔭  I'm focused on growing [understandingdata.com](https://understandingdata.com/).
 - 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within the digital marketing industry.
 - 💬  Ask me about: data pipelines, web applications & machine learning.
