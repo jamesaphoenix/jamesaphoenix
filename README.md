@@ -22,4 +22,4 @@
 
 ---
 
-[buy me a coffee](https://www.buymeacoffee.com/jamesaphoenix) if you love what I do!
+[Buy me a coffee](https://www.buymeacoffee.com/jamesaphoenix) if you love what I do!
