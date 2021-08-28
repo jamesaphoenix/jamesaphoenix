@@ -9,7 +9,7 @@
 
 - 🌱  I’m currently learning [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), Data Engineering, JavaScript and Python.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/jamesaphoenix)!
-- 🔭  I'm focused on growing [understandingdata.com](https://understandingdata.com/) and [vexpower.com](https://app.vexpower.com/)
+- 🔭  I'm focused on growing [understandingdata.com](https://understandingdata.com/) and [vexpower.com](https://app.vexpower.com/).
 - 👯  I’m looking to collaborate on Data Science/Data Engineering techniques within the digital marketing industry.
 - 💬  Ask me about: data pipelines, web applications & machine learning.
 - 📫  How to reach me: jamesaphoenix@googlemail.com
