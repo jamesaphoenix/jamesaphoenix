@@ -17,4 +17,17 @@
 
 ## :wrench: Technologies
 
-![Python](https://img.icons8.com/color/30/000000/python.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![NextJS](https://img.icons8.com/color/30/nextjs.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![OpenAI](https://img.icons8.com/color/30/openai.png)![GCP](https://img.icons8.com/color/30/google-cloud.png)![PostgreSQL](https://img.icons8.com/color/30/postgresql.png)![Redis](https://img.icons8.com/color/30/redis.png)![Docker](https://img.icons8.com/color/30/docker.png)![Terraform](https://img.icons8.com/color/30/terraform.png)![Git](https://img.icons8.com/color/30/git.png)![Vercel](https://img.icons8.com/color/30/vercel.png)![Supabase](https://img.icons8.com/color/30/supabase.png)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![NextJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
+![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
+![OpenAI](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg)
+![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)
+![Supabase](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg)
