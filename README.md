@@ -7,13 +7,13 @@
 
 ## I'm an Indiehacker, LLM Engineer & O'Reilly Author
 
-- 🚀 Currently building solo products and focusing on entrepreneurship
-- - 💡 Full-stack software engineer with expertise in LLMs and growth marketing
-- 📚 Author of [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) (O'Reilly)
-- 🔭 Working on innovative projects at the intersection of AI and software development
-- 👯 Open to collaborating on LLM engineering and SaaS projects
-- 💬 Ask me about: prompt engineering, LLMs, full-stack development, and building indie products
-- 📫 How to reach me: [jamesaphoenix@googlemail.com](mailto:jamesaphoenix@googlemail.com)
+- 🚀 Currently building solo products and focusing on entrepreneurship.
+- 💡 Full-stack software engineer with expertise in LLMs and growth marketing.
+- 📚 Author of [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) (O'Reilly).
+- 🔭 Working on innovative projects at the intersection of AI and software development.
+- 👯 Open to collaborating on LLM engineering and SaaS projects.
+- 💬 Ask me about: prompt engineering, LLMs, full-stack development, and building indie products.
+- 📫 How to reach me: [jamesaphoenix@googlemail.com](mailto:jamesaphoenix@googlemail.com).
 
 ## :wrench: Technologies
 
