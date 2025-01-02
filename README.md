@@ -17,17 +17,4 @@
 
 ## :wrench: Technologies
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![NextJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
-![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![OpenAI](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg)
-![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)
-![Supabase](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-light-mode-only){ width=30 height=30 } ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg){ width=30 height=30 } ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg){ width=30 height=30 } ![NextJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg){ width=30 height=30 } ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg){ width=30 height=30 } ![OpenAI](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg){ width=30 height=30 } ![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg){ width=30 height=30 } ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg){ width=30 height=30 } ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg){ width=30 height=30 } ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg){ width=30 height=30 } ![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg){ width=30 height=30 } ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg){ width=30 height=30 } ![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg){ width=30 height=30 } ![Supabase](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg){ width=30 height=30 }
